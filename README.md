@@ -35,6 +35,6 @@ Search for news articles in real-time, view headlines, descriptions, and images 
 
 | Home Screen | Search Results | | Clicked After|
 |-------------|----------------| |--------------|
-| ![Home](screenshots/news1.jpg) | ![Search](app/screenshots/news2.jpg) | |![after clicking the news](screenshots/news3.jpg) 
+| ![Home](screenshots/News1.jpg) | ![Search](app/screenshots/News2.jpg) | |![after clicking the news](screenshots/News3.jpg) 
 
 
